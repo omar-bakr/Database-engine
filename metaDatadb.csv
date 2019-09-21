@@ -1,0 +1,4 @@
+db,gpa,java.lang.Double,False,True,
+db,name,java.lang.String,False,False,
+db,ID,java.lang.Integer,True,False,
+db,touchDate,java.lang.Date,False,False,
